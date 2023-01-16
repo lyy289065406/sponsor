@@ -1,2 +1,1 @@
-# sponsor
-友情赞助
+![](./imgs/sponsor.jpg)
